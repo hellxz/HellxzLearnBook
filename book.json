@@ -1,0 +1,20 @@
+{
+    "title": "我的计算机学习笔记",
+    "author": "Hellxz Chang <hellxz001@foxmail.com>",
+    "description": "计算机学习系统笔记，主语言Java",
+    "language": "zh-hans",
+    "plugins": [
+        "anchors",
+        "toggle-chapters",
+        "-sharing",
+        "-lunr",
+        "-search",
+        "emphasize",
+        "advanced-emoji",
+        "search-pro@^2.0.2",
+        "back-to-top-button",
+        "popup",
+        "code",
+        "theme-comscore"
+    ]
+}

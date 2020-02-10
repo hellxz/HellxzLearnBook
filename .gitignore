@@ -1,0 +1,6 @@
+# ignore npm lock, modules
+package-lock.json
+node_modules/
+
+# default gitbook build htmls
+_book/
